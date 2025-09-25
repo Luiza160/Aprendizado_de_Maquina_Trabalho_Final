@@ -6,12 +6,9 @@
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/195492158?v=4" width=115><br><sub>🍂Luiza Davoli🍂</sub>](https://github.com/Luiza160)
 
-Aluna do primeiro semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
-
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/67320923?v=4" width=115><br><sub>Samarah Luiza de Medeiros Ramos</sub>](https://github.com/SamarahRamos)
 
-Aluna do primeiro semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/208799529?v=4" width=115><br><sub>Sarah Santos Silva</sub>](https://github.com/SarahSantosSilva)
 
