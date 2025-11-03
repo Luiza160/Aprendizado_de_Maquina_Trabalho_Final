@@ -5,7 +5,7 @@ Projeto realizado para a diciplina de Aprendizado de Máquina, no segundo semest
 ## 🔎 Sumário 🔎
 - [Título](#😔-Máquinas-Tristes-😔)
 - [O Projeto](#O-Projeto)
-  - [Problemática](#Problemática:-Tecnologia-e-bem-estar-psicológico-em-jovens)
+  - [Problemática](#Problemática-:-Tecnologia-e-bem-estar-psicológico-em-jovens)
   - [Os Códigos](#Os-Códigos)
 - [Ferramentas Utilizadas](#🛠️-Ferramentas-Utilizadas-🛠️)
 - [Instalação e Instruções](#💻-Instalação-e-Instruções-💻)
