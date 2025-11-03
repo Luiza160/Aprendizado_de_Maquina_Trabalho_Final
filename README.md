@@ -5,8 +5,6 @@ Projeto realizado para a diciplina de Aprendizado de Máquina, no segundo semest
 ## 🔎 Sumário 🔎
 - [Título](#😔-Máquinas-Tristes-😔)
 - [O Projeto](#O-Projeto)
-  - [Problemática](#Problemática-:-Tecnologia-e-bem-estar-psicológico-em-jovens)
-  - [Os Códigos](#Os-Códigos)
 - [Ferramentas Utilizadas](#🛠️-Ferramentas-Utilizadas-🛠️)
 - [Instalação e Instruções](#💻-Instalação-e-Instruções-💻)
   - [Instalação do Código](#Instalação-do-Código)
@@ -41,7 +39,7 @@ Projeto realizado para a diciplina de Aprendizado de Máquina, no segundo semest
 # 💻 Instalação e Instruções 💻
 
 ### Instalação do Código
-O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [Principal](https://github.com/Luiza160/Aprendizado_de_Maquina_Trabalho_Final/tree/main/Principal). É recomendado que o usuário baixe a **pasta completa**.
+O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [Principal](https://github.com/Luiza160/Aprendizado_de_Maquina_Trabalho_Final/tree/main/Principal). É recomendado que o usuário baixe a **pasta completa** e rode todos os notebooks instalados, para garantir que todos os modelos de predição sejam executados corretamente.
 
 Ao realizar o download, é possível perceber que o arquivo é um Jupyter Notebook, ou seja, deve ser rodado em programas que possuam um Jupyter Kernel. Durante a realização do projeto, foram utilizados o JupyterLab e o Visual Studio Code, sendo os mais recomendados para a execução, uma vez que os testes já foram realizados neles. Além disso, é preciso que o usuário tenha instalado todas as bibliotecas citadas anteriormente em seu computador.
 
